@@ -1,26 +1,26 @@
 
-# readMe Generator 
+#  Readme Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-- I can create a readMe from node 
-- to help build a readMe generator 
+- Creates a readme generator 
+-  To help with the process during a team project
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 ## Installation
-you can install this with npm install 
+ You run the generator and fill in the questions
 ## Usage
-You can use this to create a readme for a project for developers 
+ Once the project has been decided, we create the readme with the right instructions
 ## Credits
 ernie2021
 ## License
 MIT
 ## How to Contribute
-they can add their own section to the readme 
+ They can add their on readme and instructions
 ## Tests
-run index.js on the node, run the rerad me prompts, create readme 
+ Run, node index.js 
 ## Questions
 * [gitHubLink](https://github.com/ernie2021)
 * <a href="mailto:it-support@kth.se">egarcia2020@yahoo.com</a>
